@@ -1,0 +1,8 @@
+lesson_1_reflections
+Reflect: Using diff to Find Bugs
+fc ie., file compare in windows and diff in linux or mac is actually helps to pin point where is issue is there in code for me but what typo error is difficult .
+helps to find where all the bugs are ther and can concentrate in that places.
+
+2)How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+it helps to know where all i was stuck before and how exactly that issue was solved ie., which all lines were changed and all this gives an idea about how the program evolved .
+3)
