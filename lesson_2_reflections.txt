@@ -1,3 +1,16 @@
 reflections for lesson 2 
 here we are into more depth of creating the repository and using merge and branch 
+git add files, files are added to tracking mode ie, staging ,  for commiting to repository 
+after that commit it using git commit and add a commit message in the editor so that it will come in the log and easy 
+then after that use git status to show the status it will show no files to commit since we have committed it , 
+then use the git diff --staged to find the staged and working directory anything is changed or not
 
+After that we have learned how to branch to a new repository for making changes from a commmon master then work on different experiments on same projects without affecting the original 
+using git branch "branch name"
+later on how to merge two branch to single one to introduce both features from branches. using git merge branch1 branch2 this will merge changes to checkout branch.
+later how we did resolve git merge conflicts by manually going to file that had conflicts and resolved it in a editor and removed git special comments in the process then added the file to dtaging using git add , which reports both files changed .
+and continue and conclude the merge using git commit.
+
+this lesson i had to struggle a lot to make things work since got errors in merging and also while doing the exercises made things clearer . reviewing the videos will defintely help.
+
+thanks.
